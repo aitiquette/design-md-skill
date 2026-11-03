@@ -10,7 +10,7 @@ The skill gives Claude:
 
 ## Download
 
-**[⬇ Download design-md.zip](../../raw/main/design-md.zip)**
+**[⬇ Download design-md.zip](https://github.com/aitiquette/design-md-skill/raw/main/design-md.zip)**
 
 Don't unzip it if you're installing in the Claude app.
 
